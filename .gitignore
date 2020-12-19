@@ -1,3 +1,9 @@
+# STS / Eclipse
+.project
+.classpath
+.factorypath
+.settings/
+
 # Compiled class file
 *.class
 
